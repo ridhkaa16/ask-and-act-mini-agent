@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language known for readable syntax."
+  },
+  {
+    "question": "What is FastAPI?",
+    "answer": "FastAPI is a Python framework for building APIs."
+  },
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API defines how software systems communicate and exchange data."
+  },
+  {
+    "question": "What is an LLM agent?",
+    "answer": "An LLM agent uses a language model to select tools, execute actions, and produce an answer."
+  },
+  {
+    "question": "What is tool calling?",
+    "answer": "Tool calling lets an LLM request a structured function call that the application executes."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a version control system used to track changes in code."
+  },
+  {
+    "question": "What is REST?",
+    "answer": "REST is an architectural style for APIs that commonly uses HTTP methods."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL is a language for querying and managing relational databases."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning allows models to learn patterns from data."
+  }
+]
